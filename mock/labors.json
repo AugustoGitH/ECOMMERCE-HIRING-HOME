@@ -1,0 +1,155 @@
+[
+  {
+    "id": "1",
+    "title": "Desenvolvedor Web Full-Stack",
+    "personOrCompany": "Augusto C. Westphal",
+    "hourlyRate": 30,
+    "typeOfPayment": "Adiantado",
+    "languageLevel": "Inglês Avançado",
+    "localization": "Porto Alegre - RS",
+    "training": "Engenharia de Software",
+    "description": "Desenvolvo aplicações web completas utilizando as mais recentes tecnologias.\n\nTenho experiência em desenvolvimento tanto no front-end quanto no back-end, trabalhando com frameworks como React.js, Node.js e Express.js.\n\nMinha habilidade em comunicação e trabalho em equipe me permite colaborar efetivamente em projetos multidisciplinares.\n\nEstou comprometido em entregar resultados de alta qualidade e aderir às melhores práticas do setor.",
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/augusto-westphal/",
+      "portfolio": "https://augustowestphal.site/"
+    },
+    "updatedAt": "03/03/2024",
+    "createdAt": "02/03/2024"
+  },
+  {
+    "id": "2",
+    "title": "Analista de Dados",
+    "personOrCompany": "Camila Ribeiro",
+    "hourlyRate": 20,
+    "typeOfPayment": "Mensal",
+    "languageLevel": "Espanhol Intermediário",
+    "localization": "Rio de Janeiro - RJ",
+    "training": "Estatística",
+    "description": "Sou especialista em análise de dados, com habilidades avançadas em estatística e linguagens de programação como R e Python.\n\nTenho experiência em coletar, limpar e analisar grandes conjuntos de dados para gerar insights valiosos.\n\nAlém disso, possuo forte capacidade de comunicação e apresentação, o que me permite traduzir dados complexos em informações acionáveis.",
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/camila-ribeiro/",
+      "portfolio": "https://camila-ribeiro.com/"
+    },
+    "updatedAt": "03/03/2024",
+    "createdAt": "02/03/2024"
+  },
+  {
+    "id": "3",
+    "title": "Engenheiro de Software",
+    "personOrCompany": "Carlos Silva",
+    "hourlyRate": 35,
+    "typeOfPayment": "Adiantado",
+    "languageLevel": "Inglês Avançado",
+    "localization": "São Paulo - SP",
+    "training": "Ciência da Computação",
+    "description": "Desenvolvo software de alta qualidade para atender às necessidades específicas dos clientes.\n\nMinha experiência inclui o desenvolvimento de sistemas distribuídos, integração de APIs e implementação de arquiteturas escaláveis.\n\nTenho habilidades avançadas em linguagens de programação como Java, Python e JavaScript, bem como em frameworks como Spring e Django.",
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/carlos-silva/",
+      "portfolio": "https://carlos-silva.com/"
+    },
+    "updatedAt": "03/03/2024",
+    "createdAt": "02/03/2024"
+  },
+  {
+    "id": "4",
+    "title": "UI/UX Designer",
+    "personOrCompany": "Daniela Oliveira",
+    "hourlyRate": 25,
+    "typeOfPayment": "Adiantado",
+    "languageLevel": "Inglês Intermediário",
+    "localization": "Belo Horizonte - MG",
+    "training": "Design Gráfico",
+    "description": "Crio interfaces de usuário intuitivas e atraentes para aplicativos e sites.\n\nMinha abordagem centrada no usuário garante que cada design atenda às necessidades e expectativas dos usuários finais.\n\nAlém disso, estou constantemente atualizada com as tendências de design e tecnologia, garantindo que meus trabalhos estejam sempre na vanguarda da inovação.",
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/daniela-oliveira/",
+      "portfolio": "https://daniela-oliveira.com/"
+    },
+    "updatedAt": "03/03/2024",
+    "createdAt": "03/03/2024"
+  },
+  {
+    "id": "5",
+    "title": "Desenvolvedor Mobile",
+    "personOrCompany": "Eduardo Santos",
+    "hourlyRate": 30,
+    "typeOfPayment": "Adiantado",
+    "languageLevel": "Inglês Intermediário",
+    "localization": "Recife - PE",
+    "training": "Ciência da Computação",
+    "description": "Especializado no desenvolvimento de aplicativos móveis para Android e iOS.\n\nPossuo experiência em desenvolvimento nativo utilizando Java para Android e Swift para iOS, bem como em frameworks multiplataforma como React Native.\n\nMinhas habilidades incluem integração com APIs, armazenamento de dados local e remoto, e criação de interfaces de usuário elegantes e responsivas.",
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/eduardo-santos/",
+      "portfolio": "https://eduardo-santos.com/"
+    },
+    "updatedAt": "03/03/2024",
+    "createdAt": "02/03/2024"
+  },
+  {
+    "id": "6",
+    "title": "Analista de Segurança da Informação",
+    "personOrCompany": "Fernanda Lima",
+    "hourlyRate": 40,
+    "typeOfPayment": "Adiantado",
+    "languageLevel": "Inglês Avançado",
+    "localization": "Brasília - DF",
+    "training": "Segurança da Informação",
+    "description": "Especialista em proteger sistemas e redes contra ameaças cibernéticas.\n\nMinha experiência inclui análise de vulnerabilidades, detecção e resposta a incidentes, e implementação de medidas de segurança proativas.\n\nTenho habilidades avançadas em ferramentas de segurança como SIEM, IDS/IPS e firewalls, além de conhecimento em conformidade regulatória e melhores práticas de segurança.",
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/fernanda-lima/",
+      "portfolio": "https://fernanda-lima.com/"
+    },
+    "updatedAt": "03/03/2024",
+    "createdAt": "02/03/2024"
+  },
+  {
+    "id": "7",
+    "title": "Analista de BI",
+    "personOrCompany": "Gabriel Almeida",
+    "hourlyRate": 25,
+    "typeOfPayment": "Mensal",
+    "languageLevel": "Inglês Intermediário",
+    "localization": "Salvador - BA",
+    "training": "Administração",
+    "description": "Especialista em análise de dados e geração de relatórios para apoiar a tomada de decisões estratégicas.\n\nMinha experiência inclui modelagem de dados, criação de dashboards interativos e implementação de soluções de BI em diferentes setores e plataformas.\n\nTenho habilidades avançadas em ferramentas de BI como Tableau, Power BI e Qlik Sense, além de conhecimento em linguagens de consulta como SQL e DAX.",
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/gabriel-almeida/",
+      "portfolio": "https://gabriel-almeida.com/"
+    },
+    "updatedAt": "03/03/2024",
+    "createdAt": "02/03/2024"
+  },
+  {
+    "id": "8",
+    "title": "Engenheiro de Dados",
+    "personOrCompany": "Helena Pereira",
+    "hourlyRate": 35,
+    "typeOfPayment": "Adiantado",
+    "languageLevel": "Inglês Avançado",
+    "localization": "Curitiba - PR",
+    "training": "Engenharia de Dados",
+    "description": "Especializada em coleta, armazenamento e processamento de grandes volumes de dados.\n\nMinha experiência inclui modelagem de dados, desenvolvimento de pipelines de dados e implementação de soluções de Big Data.\n\nTenho habilidades avançadas em ferramentas como Hadoop, Spark e Kafka, além de conhecimento em linguagens de programação como Python e Scala.",
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/helena-pereira/",
+      "portfolio": "https://helena-pereira.com/"
+    },
+    "updatedAt": "03/03/2024",
+    "createdAt": "02/03/2024"
+  },
+  {
+    "id": "9",
+    "title": "Product Manager",
+    "personOrCompany": "Igor Fernandes",
+    "hourlyRate": 40,
+    "typeOfPayment": "Mensal",
+    "languageLevel": "Inglês Avançado",
+    "localization": "Fortaleza - CE",
+    "training": "Administração",
+    "description": "Especialista em gerenciamento de produtos e desenvolvimento de estratégias de negócios.\n\nMinha experiência inclui pesquisa de mercado, definição de requisitos de produto e coordenação de equipes multidisciplinares.\n\nTenho habilidades avançadas em frameworks de desenvolvimento ágil como Scrum e Kanban, bem como em ferramentas de colaboração como Jira e Trello.",
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/igor-fernandes/",
+      "portfolio": "https://igor-fernandes.com/"
+    },
+    "updatedAt": "03/03/2024",
+    "createdAt": "02/03/2024"
+  }
+]
