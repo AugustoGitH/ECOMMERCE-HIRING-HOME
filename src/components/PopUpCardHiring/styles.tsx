@@ -14,9 +14,9 @@ export const PopUpCardHiring = styled.div`
   justify-content: center;
   align-items: center;
   .card{
-    overflow: auto;
     width: 800px;
-    max-height: 800px;
+     max-height: 95vh;
+    overflow: auto;
     background-color: #fff;
     border-radius: .5rem;
     border: 1px solid #0000002f;

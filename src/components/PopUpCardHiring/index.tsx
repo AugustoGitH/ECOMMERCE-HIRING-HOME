@@ -26,8 +26,10 @@ export default function PopUpCardHiring({ labor, open, onClose = () => { } }: Po
     }
     if (open) {
       document.addEventListener("mousedown", handleClick)
+      document.body.style.overflow = "hidden"
     } else {
       document.removeEventListener("mousedown", handleClick)
+      document.body.style.overflow = "auto"
     }
     return () => document.removeEventListener("mousedown", handleClick)
     // eslint-disable-next-line react-hooks/exhaustive-deps
@@ -38,7 +40,6 @@ export default function PopUpCardHiring({ labor, open, onClose = () => { } }: Po
     setOrderAnalysis("")
     setHourlyRate((Math.floor(Math.random() * 24) + 1))
   }
-
 
   const handleAcceptService = () => {
     if (hourlyRate === null) return
@@ -79,6 +80,8 @@ export default function PopUpCardHiring({ labor, open, onClose = () => { } }: Po
 
             onApprove: async () => {
               // const order = await actions.order.capture()
+              window.alert("Pagamento Realizado com sucesso!")
+              setHourlyRate(null)
               onClose()
             }
           }).render("#paypal-content")
